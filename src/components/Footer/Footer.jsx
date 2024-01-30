@@ -12,13 +12,13 @@ export default function Footer() {
           set encompassing front-end and back-end technologies
         </span>
         <p className="footerInfo__email">
-          <i class="fa-regular fa-envelope"></i>
+          <i className="fa-regular fa-envelope"></i>
           abmcodehub@gmail.com
         </p>
         <div className="footer__icons">
-          <i class="fa-brands fa-instagram"></i>
-          <i class="fa-brands fa-x-twitter"></i>
-          <i class="fa-brands fa-youtube"></i>
+          <i className="fa-brands fa-instagram"></i>
+          <i className="fa-brands fa-x-twitter"></i>
+          <i className="fa-brands fa-youtube"></i>
         </div>
       </div>
     </div>

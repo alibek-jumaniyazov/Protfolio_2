@@ -25,8 +25,8 @@ export default function Skills() {
               y2="42"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#FDFDFD" />
-              <stop offset="1" stop-color="white" stop-opacity="0.18" />
+              <stop stopColor="#FDFDFD" />
+              <stop offset="1" stopColor="white" stopOpacity="0.18" />
             </linearGradient>
           </defs>
         </svg>
@@ -50,8 +50,8 @@ export default function Skills() {
               y2="42"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#FDFDFD" />
-              <stop offset="1" stop-color="white" stop-opacity="0.18" />
+              <stop stopColor="#FDFDFD" />
+              <stop offset="1" stopColor="white" stopOpacity="0.18" />
             </linearGradient>
           </defs>
         </svg>
@@ -75,8 +75,8 @@ export default function Skills() {
               y2="42"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#FDFDFD" />
-              <stop offset="1" stop-color="white" stop-opacity="0.18" />
+              <stop stopColor="#FDFDFD" />
+              <stop offset="1" stopColor="white" stopOpacity="0.18" />
             </linearGradient>
           </defs>
         </svg>
@@ -100,8 +100,8 @@ export default function Skills() {
               y2="42"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#FDFDFD" />
-              <stop offset="1" stop-color="white" stop-opacity="0.18" />
+              <stop stopColor="#FDFDFD" />
+              <stop offset="1" stopColor="white" stopOpacity="0.18" />
             </linearGradient>
           </defs>
         </svg>
@@ -125,8 +125,8 @@ export default function Skills() {
               y2="42"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#FDFDFD" />
-              <stop offset="1" stop-color="white" stop-opacity="0.18" />
+              <stop stopColor="#FDFDFD" />
+              <stop offset="1" stopColor="white" stopOpacity="0.18" />
             </linearGradient>
           </defs>
         </svg>
