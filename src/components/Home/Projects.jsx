@@ -26,7 +26,7 @@ export default function Projects() {
             <div className="allProject">
                 {
                     projectInfo.map((item) => (
-                        <Project item={item} />
+                        <Project item={item} key={item.id}/>
                     ))
                 }
             </div>
